@@ -1,0 +1,16 @@
+{
+  "name": "extended-requirer",
+  "version": "1.1.0",
+  "description": "extended-requirer",
+  "license": "MIT",
+  "repository": "albertoensan/extended-requirer",
+  "main": "index.js",
+  "keywords": [
+    "extended",
+    "requirer",
+    "require"
+  ],
+  "dependencies": {
+    "merge-json": "0.1.0-b.3"
+  }
+}

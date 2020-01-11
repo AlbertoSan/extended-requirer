@@ -11,6 +11,7 @@
     "require"
   ],
   "dependencies": {
-    "merge-json": "0.1.0-b.3"
+    "merge-json": "0.1.0-b.3",
+    "express-file-consumer": "^1.0.2"
   }
 }
